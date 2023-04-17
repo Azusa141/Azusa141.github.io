@@ -5,10 +5,10 @@
 # Site
 title: Hexo
 subtitle: ''
-description: ''
+description: 哇袄
 keywords:
 author: John Doe
-language: en
+language: zh-cn
 timezone: ''
 
 # URL
@@ -102,4 +102,5 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type:
+
